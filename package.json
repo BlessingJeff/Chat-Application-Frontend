@@ -12,6 +12,7 @@
     "bootstrap": "^5.1.3",
     "buffer": "^6.0.3",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
     "emoji-picker-react": "^3.5.1",
     "eslint-plugin-react-hooks": "^4.2.1-rc.2-next-8fce11699-20220316",
     "formik": "^2.2.9",

@@ -33,5 +33,4 @@ const Container = styled.div`
   span {
     color: #4e0eff;
   }
-
 `;
